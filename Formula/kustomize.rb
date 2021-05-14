@@ -3,7 +3,7 @@ class Kustomize < Formula
   homepage "https://kustomize.io/"
   url "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize%2Fv3.10.0/kustomize_v3.10.0_darwin_amd64.tar.gz"
   version "3.10.0"
-  sha256 "602ad8aa98e2e17f6c9119e027a09757e63c8bec"
+  sha256 "8fc809455a282f1c9a8574304f61dcaf1f709012739cbddf5d122b1e953588b3"
   head "https://github.com/kubernetes-sigs/kustomize"
 
   bottle :unneeded
