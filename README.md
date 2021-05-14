@@ -14,7 +14,7 @@
 - This runs with https://github.com/kubeflow/gcp-blueprints/releases/tag/v1.2.1 when running `make apply`
 - Other versions run into this issue: https://github.com/kubeflow/manifests/issues/1490
 - 
-### `kfctl` v1.2.1
+### `kfctl` v1.2.0
 
 `brew install akiyamasho/homebrew-kubeflow-prerequisites/kfctl`
 
