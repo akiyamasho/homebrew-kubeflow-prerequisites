@@ -11,7 +11,8 @@ class Istioctl < Formula
   depends_on "kubernetes-cli"
 
   def install
-    bin.install "kfctl"
+    bin.install "istioctl"
+    bin.install "asmctl"
   end
 
   test do
